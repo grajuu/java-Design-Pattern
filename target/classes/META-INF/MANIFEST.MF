@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mardubudi
+Build-Jdk: 9.0.1
+Implementation-Title: DesignFactory
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tis.mgr
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DesignFactory
+Created-By: Maven Integration for Eclipse
+
